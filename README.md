@@ -1,6 +1,6 @@
 # Fine-Tuning LLMs: Full vs Parameter-Efficient Fine-Tuning (PEFT)
 
-A comprehensive comparison of full fine-tuning and Parameter-Efficient Fine-Tuning (PEFT) using LoRA for dialogue summarization with Flan-T5.
+A comprehensive comparison of full fine-tuning and Parameter-Efficient Fine-Tuning (PEFT) using LoRA for dialogue summarization with Flan-T5. see colab notebook: https://colab.research.google.com/drive/1GLxvVWOoN4SE8XqXn8NR81himK0cI_Cj?usp=sharing
 
 ##  Project Overview
 
